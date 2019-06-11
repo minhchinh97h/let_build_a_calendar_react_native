@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 18320,
-  "webpackServerPort": 19003,
-  "expoServerNgrokUrl": "https://j2-24r.minhchinh97h.let-build-a-calendar-react-native.exp.direct",
-  "packagerNgrokUrl": "https://packager.j2-24r.minhchinh97h.let-build-a-calendar-react-native.exp.direct",
-  "ngrokPid": 14708
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }

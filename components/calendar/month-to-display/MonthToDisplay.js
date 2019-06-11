@@ -13,8 +13,6 @@ const monthNames = ["January", "February", "March", "April", "May", "June",
 ];
 
 
-
-
 export default class MonthToDisplay extends React.Component{
 
     row_days_array // calendar_row_array
