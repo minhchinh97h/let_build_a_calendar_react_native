@@ -15,8 +15,8 @@ const monthNames = ["January", "February", "March", "April", "May", "June",
 
 export default class MonthToDisplay extends React.Component{
 
-    row_days_array // calendar_row_array
-    day_data_array // display_day_array, 
+    row_days_array // //Hold all the row of React element to display the current calendar month
+    day_data_array // Hold the data to display of each day in the current calendar month
 
     state = {
         row_days_array: []
